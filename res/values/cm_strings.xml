@@ -37,6 +37,9 @@
     <string name="menu_wallpaper">""</string>
     <string name="workspace_cling_open_all_apps">""</string>
 
+    <!-- Clear keyguard wallpaper tile text -->
+    <string name="clear_keyguard_wallpaper">Clear</string>
+
     <!-- Custom Features -->
     <!-- Icon Pack -->
     <string name="dialog_pick_iconpack_title">Pick icon pack</string>
